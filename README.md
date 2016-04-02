@@ -1,11 +1,11 @@
 # popo-emoji
-A package yaml contains 55 kute popo emojis. 
+A package yaml contains 55 kute popo emojis, used to add custom emojis to Slack.
 
-# Preview
+### Preview
 ![alt text](https://raw.githubusercontent.com/damhonglinh/popo-emoji/master/popo-emojis-preview.png "Popo Emojis Preview")
 
-# Usage
+### Usage
 Download the yaml file and follow the instructions from https://github.com/lambtron/emojipacks#usage
 
-# Emojs album
+### Emojs album
 http://imgur.com/a/9T8tt
